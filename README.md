@@ -1,2 +1,2 @@
 # AdventureCombat
-Combat Game
+Combat Game!
